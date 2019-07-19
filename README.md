@@ -1,6 +1,6 @@
-# Project Name
+# Team 419 - Business Reviews App
 
-> Project description
+> Project repo for building out a business and restaurant reviews site. This reop contains component containing the title, info, mapping, and headers of each business.
 
 ## Related Projects
 
@@ -8,19 +8,7 @@
   - https://github.com/team419/comments-module
   - https://github.com/team419/reservations-module
 
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
-
 ## Requirements
-
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
 
 - Node 6.13.0
 - React 16.8.6
